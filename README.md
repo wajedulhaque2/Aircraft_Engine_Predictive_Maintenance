@@ -4,6 +4,8 @@ An Excel reliability and predictive-maintenance project using the NASA C-MAPSS F
 
 ![Executive Dashboard](assets/dashboard.png)
 
+**Quick review:** [3-page project summary](docs/Aircraft_Engine_Project_Summary.pdf) · [Excel portfolio workbook](workbook/Aircraft_Engine_Predictive_Maintenance_Portfolio.xlsx)
+
 ## Project goal
 
 The project was built to show Excel as a complete reliability and maintenance decision-support stack rather than only a reporting tool.
@@ -171,6 +173,7 @@ The cached workbook can be reviewed without the raw NASA source files. A full re
 
 ## Files in this repository
 
+- [`docs/Aircraft_Engine_Project_Summary.pdf`](docs/Aircraft_Engine_Project_Summary.pdf) — concise 3-page portfolio summary
 - [`workbook/Aircraft_Engine_Predictive_Maintenance_Portfolio.xlsx`](workbook/Aircraft_Engine_Predictive_Maintenance_Portfolio.xlsx) — cached reviewer workbook
 - [`docs/FORMULA_GUIDE.md`](docs/FORMULA_GUIDE.md) — important Excel formulas, model coefficients, DAX measures and Power Query patterns
 - [`docs/WORKBOOK_ARCHITECTURE.md`](docs/WORKBOOK_ARCHITECTURE.md) — workbook layers, tables and model flow
