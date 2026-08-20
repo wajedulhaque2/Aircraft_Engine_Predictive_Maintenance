@@ -1,13 +1,5 @@
 # Portfolio Workbook
 
-Place the final cached reviewer workbook in this folder using the filename:
-
-```text
-Aircraft_Engine_Predictive_Maintenance_Portfolio.xlsx
-```
-
-The root README links directly to that path.
-
 ## Reviewer requirements
 
 The workbook is designed for **Microsoft 365 desktop Excel** and uses:
