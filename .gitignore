@@ -1,0 +1,12 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Local NASA source data
+/data/*.txt
+/data/*.zip
+
+# OS metadata
+.DS_Store
+Thumbs.db
