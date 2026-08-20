@@ -1,23 +1,12 @@
 # Workbook Screenshots
 
-This folder contains presentation screenshots referenced by the root README.
+Presentation screenshots used by the root project README.
 
-Expected files:
+| File | Workbook view |
+|---|---|
+| `dashboard.png` | Executive dashboard with reliability, model-performance and maintenance KPIs |
+| `engine_detail.png` | Interactive individual-engine monitoring view |
+| `maintenance_planner.png` | Solver-based maintenance allocation output |
+| `validation.png` | Held-out model comparison and NASA final-test validation |
 
-```text
-dashboard.png
-engine_detail.png
-maintenance_planner.png
-validation.png
-```
-
-Recommended capture rules:
-
-- use desktop Excel at 100% zoom where practical;
-- hide the formula bar / ribbon only if doing so makes the screenshot cleaner without removing context;
-- capture the workbook sheet itself rather than the entire desktop;
-- keep text readable at GitHub README width;
-- avoid cursor highlights, selection borders and open dropdown menus unless demonstrating interaction;
-- use PNG for sharp spreadsheet text.
-
-The root README is already wired to these filenames, so adding the images with the exact names above will make them appear automatically.
+The screenshots are intentionally kept as PNG files so spreadsheet text remains sharp at normal GitHub README width.
